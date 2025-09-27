@@ -1,11 +1,12 @@
 html{
-    background-image: url(fondo.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0;
-    height: 100vh;
-}
+html {
+            background-image: url(fondo.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            margin: 0;
+            height: 100vh;
+        }
 body{
     font-family:'Times New Roman', Times, serif;
     text-align: center;
@@ -47,4 +48,5 @@ button{
 button:hover{
     background-color: silver;
     transform: scale(1.05);
+}
 }
